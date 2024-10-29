@@ -9,15 +9,15 @@
 
 - 👯 I’m looking to collaborate on *with other developers*
 
-- 📫 How to reach me *prajwalmehotra26@gmail.com*
+- 📫 How to reach me *Sambritolpu@gmail.com*
 
-- ⚡ Fun fact *i like to go on trek*
+- ⚡ Fun fact *i like to go on bike trip*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/prajwal-m-486827130/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sambrito-ghosh-6781ab327/" height="30" width="40" /></a>
-<a href="https://instagram.com/mehrotraprajwal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mehrotraprajwal" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@prajwalmehrotra1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@prajwalmehrotra1" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/sambrito-ghosh-6781ab327/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sambrito-ghosh-6781ab327/" height="30" width="40" /></a>
+<a href="https://www.instagram.com/sambrito123/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sambrito@123" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/profile/sambritoghosh121" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="Sambritoghosh121" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
